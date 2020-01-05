@@ -17,7 +17,7 @@ public class Menu {
 	
 	private String subjectLocation;
 	private String queryLocation;
-	private int k = 4;
+	private int k = 3;
 	private String choice;
 	
 	/**
